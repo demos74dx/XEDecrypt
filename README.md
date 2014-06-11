@@ -1,3 +1,5 @@
+Decrypts a file with XE encrypted contents.  HackThisSite realistic/6 is provided in the example. Written in Java.   
+
 1) Replace the contents of file "encrypted" with your XEencoded text
 2) run XEDecrypt.java
 3) decrypted message will output to console
